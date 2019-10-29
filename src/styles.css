@@ -1,0 +1,10 @@
+
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~font-awesome/css/font-awesome.min.css";
+
+body{
+  background-image: url(https://pikwizard.com/photos/c12f82912af6aa1033fab82722aa3131-m.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  }
